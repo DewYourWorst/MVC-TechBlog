@@ -16,6 +16,8 @@ h1 {
 }
  * {
     background-color: gray;
-    color:black
+    color:black;
+    display:flex;
+    justify-content: center;
  }
   
